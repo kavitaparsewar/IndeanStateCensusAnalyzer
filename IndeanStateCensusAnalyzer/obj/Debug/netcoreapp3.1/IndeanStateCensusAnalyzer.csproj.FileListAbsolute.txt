@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.exe
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.deps.json
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.runtimeconfig.json
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.dll
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.pdb
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.dll
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.pdb
+C:\Users\lenovo\source\repos\IndeanStateCensusAnalyzer\IndeanStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndeanStateCensusAnalyzer.genruntimeconfig.cache
